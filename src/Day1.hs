@@ -1,7 +1,8 @@
 module Day1
     ( parseString,
     handleFrequency,
-    program
+    program,
+    getInputs
     ) where
 
 parseString :: String -> Int
